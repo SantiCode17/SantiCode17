@@ -1,53 +1,49 @@
 <h1 align="center">Santiago Sánchez March</h1>
 
 <p align="center">
-  <strong>Junior Full-Stack Developer</strong> &nbsp;·&nbsp; Mobile-first, with an eye for product
+  Junior Full-Stack Developer &nbsp;—&nbsp; Mobile-first, with an eye for product
 </p>
 
 <p align="center">
-  <sub>Valencia, Spain &nbsp;—&nbsp; React Native &amp; Spring Boot &nbsp;—&nbsp; open to junior roles</sub>
+  <code>Valencia, Spain</code> &nbsp; <code>React Native · Spring Boot</code> &nbsp; <code>Open to junior roles</code>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santiago-sanchez-march/">LinkedIn ↗</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:doblesmarch@gmail.com">Email ↗</a>
+  <a href="https://www.linkedin.com/in/santiago-sanchez-march/">LinkedIn&nbsp;↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:doblesmarch@gmail.com">Email&nbsp;↗</a>
 </p>
 
-<br>
+---
 
-### Currently
+### ▍Currently
 
-I just wrapped up three months of **Erasmus+ in Warsaw**, building two systems that now run in production for an international education consultancy — one of them an AI support bot powered by Google Gemini. I'm now looking for a junior role where I can keep growing as a developer.
+Back from three months of **Erasmus+ in Warsaw**, where I shipped two systems that now run in production for an international education consultancy — one of them an AI support bot powered by Google Gemini. Looking for a junior role where I can keep growing as a developer. Remote, hybrid, or on-site in Valencia.
 
-Remote, hybrid, or on-site in Valencia — all work for me.
+### ▍About
 
-### About
+I'm 19, and I've spent two years building apps that reach real users — not just following tutorials. Three things matter to me: code clean enough for the next person to pick up, interfaces that feel right to use, and software that actually ships. Mobile is where I'm sharpest, but I'm comfortable owning a feature end to end, from the React Native screen down to the database schema.
 
-I'm 19, and I've spent the last two years building apps that reach real users, not just following tutorials. Three things matter to me: code clean enough for the next person to pick up, interfaces that feel right to use, and software that actually ships. Mobile is where I'm sharpest, but I'm happy owning a feature end to end — from the React Native screen down to the database schema.
+### ▍Stack
 
-### Stack
+| Area | Tools |
+|:--|:--|
+| **Mobile & Frontend** | React Native · Expo · TypeScript · React · NativeWind · Tailwind |
+| **Backend & APIs** | Java · Spring Boot · Python · Symfony · REST · WebSockets |
+| **Data & Infra** | MySQL · SQLite · Docker · Linux · Git · systemd |
+| **AI** | Google Gemini · RAG · Prompt engineering |
 
-**Mobile & Frontend** — `React Native` `Expo` `TypeScript` `React` `NativeWind` `Tailwind`
+### ▍Selected work
 
-**Backend & APIs** — `Java` `Spring Boot` `Python` `Symfony` `REST` `WebSockets`
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **[UNIBOT](https://github.com/SantiCode17/UNICEDU-Customer-Service)** | AI support bot for an education consultancy — RAG, 12 languages, live in production | Python · Gemini |
+| **[EraMix](https://github.com/SantiCode17/eramix)** | Social app for Erasmus students with real-time chat | React Native · Spring Boot |
+| **[Inbox Bridge](https://github.com/SantiCode17/multi-account-mail-bot)** | Monitors 200+ inboxes in parallel, forwards to Telegram, 24/7 on Docker | Python · OAuth2 |
+| **[Spotify Clone](https://github.com/SantiCode17/spotify)** | Full streaming app, 15+ screens | React Native · Symfony |
 
-**Data & Infrastructure** — `MySQL` `SQLite` `Docker` `Linux` `Git` `systemd`
-
-**AI** — `Google Gemini` `RAG` `Prompt engineering`
-
-### Selected work
-
-**[UNIBOT](https://github.com/SantiCode17/UNICEDU-Customer-Service)** — AI customer-service bot for an education consultancy. Gemini 2.5 Flash, RAG knowledge base, 12 languages. Built in Warsaw, live in production.
-
-**[EraMix](https://github.com/SantiCode17/eramix)** — Social app for Erasmus students. React Native front end, Spring Boot 3 back end, real-time chat over WebSockets, deployed with Docker.
-
-**[Inbox Bridge](https://github.com/SantiCode17/multi-account-mail-bot)** — Monitors 200+ email inboxes in parallel and forwards new mail to Telegram. OAuth2, SQLite, 24/7 on Docker with health checks.
-
-**[Spotify Clone](https://github.com/SantiCode17/spotify)** — Full streaming app with 15+ screens. React Native + Expo, Zustand, TanStack Query, Symfony API.
-
-<br>
+---
 
 <p align="center">
-  <sub>Spanish — native &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Catalan / Valencian — C1</sub>
+  <sub>Spanish — Native &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Catalan / Valencian — C1</sub>
 </p>
