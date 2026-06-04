@@ -1,11 +1,5 @@
-<h1 align="center">Santiago Sánchez March</h1>
-
 <p align="center">
-  Junior Full-Stack Developer &nbsp;—&nbsp; Mobile-first, with an eye for product
-</p>
-
-<p align="center">
-  <code>Valencia, Spain</code> &nbsp; <code>React Native · Spring Boot</code> &nbsp; <code>Open to junior roles</code>
+  <img src="./banner.svg" alt="Santiago Sánchez March — Junior Full-Stack Developer" width="100%">
 </p>
 
 <p align="center">
